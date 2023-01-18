@@ -1,4 +1,7 @@
-# CII3D4-Tubes-Sister
+# CII3D4-Tubes-Sister Image Smoothing
+
+## Task Description
+Suatu image (gambar) dengan resolusi tertentu load ke array selanjutnya dikomputasi secara parallel. Boleh menggunakan multi-core CPU (OpenMP, Threading, Intel TBB, OpenCilk, etc) atau GPU (CUDA, OpenCL, etc) atau multicomputer (MPI).
 
 
 
